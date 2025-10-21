@@ -1,4 +1,4 @@
-export default function TabButton({ children, isSelected, ...props}) {
+export default function TabButton({ children, isSelected, ...props }) {
 
   return (
     <li>
